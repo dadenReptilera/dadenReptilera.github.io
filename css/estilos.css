@@ -1,0 +1,21 @@
+*{margin: 0px; padding: 0px; box-sizing: border-box}
+
+h2{color: white}
+
+body {background-image: url('../fondo/pantera.jpg');
+background-position: center; background-size: cover;
+background-repeat: no-repeat; background-attachment: fixed}
+
+.texto{margin: 80px;padding: 40px;
+        background-color: rgba(167, 164, 164, 0.39);
+        color: wheat; font-size: 20px}
+
+.center{text-align: center}
+
+.fondo {padding: 60px; color: rgb(46, 19, 19); font-size: 30px;
+        background-image: url('../img/igua18f863e0e97c83dd5becb6f1531373c.png');}
+
+.fotos {padding: 20px; display: flex; justify-content: space-around;
+         align-items: center;}
+
+.fotos img {height: 300px;}
